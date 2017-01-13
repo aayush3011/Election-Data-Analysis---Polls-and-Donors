@@ -10,7 +10,7 @@ In this Data Project I have analyzed two datasets from the 2012 election.
   5. How did voter sentiment change over time?
   6. Can we see an effect in the polls from the debates?
 
-## The second data set is the information on donations to the federal campaign. The following are the questions I tryied to answer while looking at this Data Set:
+## The second data set is the information on donations to the federal campaign. The following are the questions I tried to answer while looking at this Data Set:
   1. How much was donated and what was the average donation?
   2. How did the donations differ between candidates?
   3. How did the donations differ between Democrats and Republicans?
