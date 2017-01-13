@@ -3,6 +3,11 @@
 In this Data Project I have analyzed two datasets from the 2012 election.
 
 ## The first data set is the results of political polls. I have analyzed the aggregated poll data and answer some questions:
+
+The data for the pollshas been obtained from HuffPost Pollster. 
+http://elections.huffingtonpost.com/pollster/2012-general-election-romney-vs-obama.csv
+
+
   1. Who was being polled and what was their party affiliation?
   2. Did the poll results favor Romney or Obama?
   3. How do undecided voters effect the poll?
